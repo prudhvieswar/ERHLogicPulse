@@ -67,7 +67,7 @@
   }
   
   .icon-link {
-    color: white; /* or any desired color */
+    color: white;
     font-size: 40px;
     text-decoration: none;
     transition: color 0.3s ease;

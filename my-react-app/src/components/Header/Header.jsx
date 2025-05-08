@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="header">
       <div className="logo">
-        <img src='./src/assets/ERHIcon.png' alt="ERH LogicPulse Logo" /> {/* Use the imported logo */}
+        <img src='./src/assets/ERHIcon.png' alt="ERH LogicPulse Logo" />
         <span>ERH LogicPulse</span>
       </div>
       <nav className="nav">
