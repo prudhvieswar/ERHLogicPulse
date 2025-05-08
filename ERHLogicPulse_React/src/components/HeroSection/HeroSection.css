@@ -1,0 +1,37 @@
+.hero {
+    background-position: center;
+    color: white;
+    padding: 1px 1px 1px 1px;
+    text-align: center;
+    
+  }
+  
+  .hero-text h1 {
+    font-size: 100px;
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  .highlight {
+    color: #1995D2;
+  }
+
+  .quote-text {
+    margin-top: 20rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+    line-height: 1.6;
+  }
+
+  .pulse-background {
+    background-image: url("./src/assets/EarthHeroSection.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4rem 2rem;    
+  }
+  
