@@ -1,12 +1,51 @@
-# React + Vite
+# ERH LogicPulse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React + Vite-based web application developed for ERH LogicPulse. It uses Vite for fast development and build performance.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- JavaScript
+- CSS (Custom styling)
+- Font Awesome for icons
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Install Dependencies
+```bash
+npm install
+```
+
+### Run the Development Server
+```bash
+npm run dev
+```
+
+### Build for Production
+```bash
+npm run build
+```
+
+## Git Commands (for Contributors)
+
+### Initial Setup
+```bash
+git config --global user.name "prudhvieswar"
+git config --global user.email "prudhvieswar96@gmail.com"
+```
+
+### Cloning the Repository
+```bash
+git clone https://github.com/prudhvieswar/ERHLogicPulse.git
+```
+
+### Typical Workflow
+```bash
+git pull origin main        # Get latest updates
+git add .                   # Stage all changes
+git commit -m "Your message"
+git push origin main        # Push to GitHub
+```
+
+---
